@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\Monte\bin\Debug\Monte.exe.config
+C:\Users\student\Desktop\Monte\bin\Debug\Monte.exe
+C:\Users\student\Desktop\Monte\bin\Debug\Monte.pdb
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.Form1.resources
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.Properties.Resources.resources
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.exe
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.pdb
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\bin\Debug\Monte.exe.config
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.exe
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.pdb
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\bin\Debug\Monte.exe
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\bin\Debug\Monte.pdb
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.Form1.resources
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.Properties.Resources.resources
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.csproj.GenerateResource.Cache
+C:\Users\Дмитрий ПРО\ownCloud\codes\Вероятность\Monte\obj\Debug\Monte.Graph.resources
+C:\Users\student\Desktop\Monte\obj\Debug\Monte.Graph.resources
